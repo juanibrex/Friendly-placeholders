@@ -6,7 +6,7 @@ Friendly placeholders text clear with __HTML5__ and __CSS3__ (no javascript!)
 ###Why "friendly"?
 Cause the user expectation when focus on the input field is get make the placeholder disappear by default.
 
-###Browsers
+###Browser Support
 
  - Chrome (webkit)
  - Mozilla Firefox (4+)
