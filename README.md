@@ -14,4 +14,4 @@ Cause the user expectation when focus on the input field is get make the placeho
  - Chrome (for android)
 
 ####See in action
-http://www.ecualia.com.ar
+:computer: http://www.ecualia.com.ar
