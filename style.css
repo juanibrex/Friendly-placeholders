@@ -1,0 +1,4 @@
+input[type="search"]:focus:-moz-placeholder{color:transparent} /* Firefox 18- */
+input[type="search"]:focus::-moz-placeholder{color:transparent} /* Firefox 19+ */
+input[type="search"]:focus::-webkit-input-placeholder{color:transparent} /* WebKit browsers */
+input[type="search"]:focus:-ms-input-placeholder{color:transparent} /* Internet Explorer 10+ */
