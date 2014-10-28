@@ -1,4 +1,4 @@
 Friendly-placeholders
 =====================
 
-Friendly placeholders with CSS3
+Friendly placeholders with HTML5 and CSS3
